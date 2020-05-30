@@ -1,0 +1,14 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.4.1.5-2018.1" />
+    <option name="selectedTheme" value="ONE_DARK" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="accentColor" value="80cbc4" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="darkTitleBar" value="true" />
+    <option name="compactDropdowns" value="true" />
+    <option name="settingsSelectedTab" value="6" />
+    <option name="userId" value="469a9fe1:172245dac3b:-8000" />
+    <option name="allowDataCollection" value="true" />
+  </component>
+</application>
